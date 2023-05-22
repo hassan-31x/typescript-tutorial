@@ -1,0 +1,2 @@
+learn about more adnvanced typscript later in different hooks also
+link = https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
